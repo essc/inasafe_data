@@ -1,0 +1,7 @@
+category: postprocessing
+aggregation attribute: name
+title: data_driven_aggr
+elderly ratio attribute: ELDER
+adult ratio attribute: ADULT
+female ratio attribute: FEMALE
+youth ratio attribute: YOUTH
