@@ -1,0 +1,1 @@
+<OGRVRTDataSource>  <OGRVRTLayer name="mmi">    <SrcDataSource>/home/dianne/Development/git/inasafe_data/test/mmi.csv</SrcDataSource>    <GeometryType>wkbPoint</GeometryType>    <GeometryField encoding="PointFromColumns"                      x="lon" y="lat" z="mmi"/>  </OGRVRTLayer></OGRVRTDataSource>

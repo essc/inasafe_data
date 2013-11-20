@@ -1,5 +1,4 @@
-datatype: osm
-category: exposure
-subcategory: structure
+category: postprocessing
+female ratio attribute: way_area
+aggregation attribute: building
 title: Buildings
-source: OpenStreetMap

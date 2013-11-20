@@ -1,5 +1,5 @@
 datatype: osm
+source: OpenStreetMap
 category: exposure
 subcategory: structure
 title: Essential buildings
-source: OpenStreetMap

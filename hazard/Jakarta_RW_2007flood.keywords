@@ -1,5 +1,5 @@
 category: hazard
-subcategory: flood
-unit: wet/dry
-title: A flood in Jakarta
 source: OpenStreetMap
+subcategory: earthquake
+unit: MMI
+title: A flood in Jakarta
